@@ -1,0 +1,8 @@
+# pastas
+node_module/
+
+# arquivos
+.env
+
+# arquivos dessa extensão
+*.inc
